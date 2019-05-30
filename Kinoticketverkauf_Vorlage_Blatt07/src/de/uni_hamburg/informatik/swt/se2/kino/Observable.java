@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * Abstrakte Klasse observable ermöglicht es...
  * 
- * @author Malte
+ * @author Division durch Null
  * @version 0.01
  */
 public abstract class Observable {
